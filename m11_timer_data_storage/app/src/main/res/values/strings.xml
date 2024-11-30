@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my_android_dev_hw_11</string>
+    <string name="edit_text_field_desc">text_edit_field</string>
+    <string name="button_save">Сохранить</string>
+    <string name="user_data_hint">Введите текст</string>
+    <string name="button_clear">Очистить</string>
+    <string name="saved_user_data">Сохраненный текст пользователя:</string>
+</resources>
